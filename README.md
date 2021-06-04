@@ -1,7 +1,7 @@
 # covid-vaccine-center-locator
 ***Find the Active Vaccination Center in your Locality on Map.***
 
-<img src="static/demo.png">
+<img src="static/demo.PNG">
 
 In this time of Covid, one thing which can protect us from the virus is vaccines. However, it becomes a headache sometimes to locate an active vaccination center in our locality.
 
