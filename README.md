@@ -1,7 +1,7 @@
 # covid-vaccine-center-locator
 ***Find the Active Vaccination Center in your Locality on Map.***
 
-<img src="/static/demo.png">
+<img src="static/demo.png">
 
 In this time of Covid, one thing which can protect us from the virus is vaccines. However, it becomes a headache sometimes to locate an active vaccination center in our locality.
 
@@ -29,6 +29,7 @@ Lastly, Stay Safe!
 In this way we can run this project.
 
 **IMPORTANT NOTE**
+
 The API which I have used here to get the latitude and logitude i.e for geocoding, has the limited requests. So it might happen that if you run the project 
 no requests are left then you may see the error.
 
