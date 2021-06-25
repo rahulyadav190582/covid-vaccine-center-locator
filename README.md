@@ -1,18 +1,15 @@
 # covid-vaccine-center-locator
 ***Find the Active Vaccination Center in your Locality on Map.***
 
-I have attached this demo video
+![Screenshot (146)](https://user-images.githubusercontent.com/56320884/123468705-c7362500-d60f-11eb-9331-0d1f53d429a0.png)
+
 
 https://user-images.githubusercontent.com/63506466/120754697-aad02c80-c52a-11eb-861f-7dfe7e5e5728.mp4
 
-In this time of Covid, one thing which can protect us from the virus is vaccines. However, it becomes a headache sometimes to locate an active vaccination center in our locality.
 
-As a solution to the above problem, I have made this simple, yet quite a handy tool to get the active vaccination centers in your locality.
-The advantage of this is that it locates the vaccination center on the map making it simple for you to reach there!
-A lot of such APIs are available on the official website of vaccination and one can try it out to make more innovative projects.
-I have made this using Node.Js, MapBox, and few APIs.
+The project gives location of active covid centers according to pincode.It uses geocoding API which has limited request access,so it might happen it don't work after hitting threshold access.In that case new api should be provided to the project.
 
-Lastly, Stay Safe!
+
 
 **----------------------------------------------------------------------------------------------------------------------------------------------------------**
 
@@ -30,8 +27,4 @@ Lastly, Stay Safe!
 
 In this way we can run this project.
 
-**IMPORTANT NOTE**
-
-The API which I have used here to get the latitude and logitude i.e for geocoding, has the limited requests. So it might happen that if you run the project 
-no requests are left then you may see the error.
 
